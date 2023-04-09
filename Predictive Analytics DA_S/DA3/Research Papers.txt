@@ -1,0 +1,3 @@
+Churn paper 1 - https://colab.research.google.com/drive/12SmOcOZkH9OWC9-uQMpq7ha4aq9LLyu0#scrollTo=l1p-TculDfzK
+
+Malware paper 2 - https://d1wqtxts1xzle7.cloudfront.net/68377910/ijsia.2018.12.2-libre.pdf?1627579233=&response-content-disposition=inline%3B+filename%3DClassification_of_Malware_Analytics_Tech.pdf&Expires=1681017195&Signature=Ra-tvw1qfjsHQmQ5eKIHJdDugG9zVFEVGaHtk7tJfY7gDlAvzJLP8qJzerSxHmhwF6Ogv77SqceEVKO-G3lS64um219wkTZKpvRK03Qj0MaJ3wjBl6OnuM-SGBb-7qUs4qG-jpOC12dKVl26-NgscHQVAR9pL~PXRxEWnB6YTxSAAIs3EontVVpdjIveiFckEL6nQ3Fw1mtdhipZS4yXkCCNcy7HrgSH1FcgHWW5qJ328mXNuEAYKAf0eTlBaXMY6P1F3tE-HSUULa~693AGHbyQnMKvu7Z1FYADLWTCx8VAz1PGBvzMOykjXnKa6tmrmN~nrjmzZRdc8SUjvRIi8A__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
